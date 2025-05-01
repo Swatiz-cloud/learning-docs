@@ -1,4 +1,4 @@
-# learning-docs
+# Markdown learning-docs
 Markdown Learning's Guide
 There are 6 different types of headings:
 
